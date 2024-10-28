@@ -1,0 +1,3 @@
+c) programação orientada a objetos
+
+A programação orientada a objetos é o paradigma de programação mais indicado implementar o sistema de gerenciamento da biblioteca, pois esse sistema tem múltiplas entidades com características especificas que se relacionam entre si, o que seria melhor modelado utilizando a orientação a objetos. Além disso, esse paradigma também apresenta melhor possibilidade de evolução no futuro, caso alguma modificação seja feita no plano de negocio.  
