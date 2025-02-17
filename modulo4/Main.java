@@ -13,7 +13,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        // Criando um Autor
+        // Criando um Autores
         Autor autorTradicional = new Autor("Jess", "Inglesa", true);
         Autor autor = new Autor("Juliana", "juliana@email.com", false);
 
