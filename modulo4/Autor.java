@@ -7,9 +7,8 @@ import java.util.Objects;
 public class Autor extends Pessoa {
     private String nacionalidade;
     private List<Livro> obrasPublicadas;
-    private boolean isAutor; // true para autor tradicional, false para usuário comum
+    private boolean isAutor; 
 
-    // Construtor atualizado
     public Autor(String nome, String nacionalidade, boolean isAutor) {
         super(nome);
         this.nacionalidade = nacionalidade;
