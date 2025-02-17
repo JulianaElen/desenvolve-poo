@@ -16,7 +16,8 @@ public class ArtigoTest {
         Artigo artigo = new Artigo("Entendendo Compiladores", autor, "tecnologia", true);
         assertEquals("tecnologia", artigo.getGenero());
     }
-
+    
+    @Test
     public void testIsPublicado() {
         Autor autor = new Autor("Jess", "Inglesa", true);
 
